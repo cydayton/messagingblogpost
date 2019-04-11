@@ -1,18 +1,28 @@
-# Data Visualization Blog Post
+# Physical Computing and Messaging Blog Post
 ------
 
-### Unemployment in America Mapped Over Time, Nathan Yau
-![Map](images/map.png?raw=true "Map")
+### Water Light Graffiti, Antonin Fourneau
+![Water Light Graffiti](images/wl1.jpg?raw=true "Water Light Graffiti")
+![Water Light Graffiti](images/wl2.jpg?raw=true "Water Light Graffiti")
 
-This piece is interesting to me because it effectively visually represents change over time, specifically the rate of unemployment.  Changes in numbers or statistics are always easier for me to understand when presented in a visual manner, rather than just examining numbers.  In this video, I love the grayscale camouflaged map aesthetic.  It makes the mood of the piece more serious and dramatic, which is appropriate when it comes to unemployment.  I think the use of color would have been too playful and distracting.  I also appreciate that the higher rates are darker colors, because when the darker greys become more prevalent and start to spread, it appears as though a dark cloud is moving over those regions.  This is a great emotional representation of the situation as well.  While watching this video a few times, I noticed myself focusing on a new location each time with special meaning to me.  I felt myself grow almost uncomfortable as the "clouds" began to form over these areas, and happy when they were shaded in a lighter grey. This pieces grows to be especially fascinating around 2008, where average shade of the map darkens drastically.  It is a great tool to help visualize the intense effects that unemployment has had in America.
+Water Graffiti is a travelling art installation that is a wall of LED lights reacting to water contact.  I find this piece particularly fascinating because of both the aesthetic and the interaction with water.  It is magical to watch the LED lights glow when people spray the wall with water.  Humans who interact with this piece have the freedom and capability to draw whatever they would like; it can be something meaningful or they can just play around.  The flow of lighting up is very soft and calming.  Also, I think it is interesting that water is used as the stimulant for this piece.  Water has no shape or color, yet now has the ability to create stunning designs.  It is symbolic to me in that water has the ability to wash away many things in life, and in the same way, it is washing away the darkness in the installation.  I appreciate the monotone color scheme as it adds an element of simplicity and power to the experience.  
 
-[Here's a link to the piece](https://flowingdata.com/2016/10/17/animated-map-of-unemployment/)
+[Here's a link to the piece](http://www.waterlightgraffiti.com/about-wlg/)
 
 
-### Wine and Cheese Map
-![Wine and Cheese](images/wine.png?raw=true "Wine and Cheese")
-![Wine and Cheese 2](images/wine2.png?raw=true "Wine and Cheese 2")
+### 329 prepared dc-motors, cotton balls, toluene tank, 2013, Zimoun
+![Zimoun](images/zim1.jpg?raw=true "Zimoun")
+![Zimoun](images/zim2.jpg?raw=true "Zimoun")
 
-The interactivity of this map and extensive information provided in a simple manner is what intrigues to me this piece.  Upon first glance, it appeared to me like a large web.  However, as I started clicking through bubbles, I came to understand that each bubble (either a cheese or a wine) had a star of other cheese or wine pairings around it.  I could then click any of the surrounding bubbles and be brought to a new star.  I was very impressed by this method of sharing information.  It seems it would be very effective for someone looking for a broad array of pairings for a certain wine or cheese.  While the aesthetics are not my favorite, I can appreciate that the bubbles are color coded, yellow for cheese and red or white for wine.  Since the main focus of this piece is to convey suggestions and information, the aesthetics may not have been prioritized.  This has inspired me to consider style for my own piece, in which the user is very involved and their clicking controls what they see.
+This piece is a series of 329 black cotton balls attached to spinning DC motors.  As an engineer, I appreciate the integration of a very mechanical system with a large scale art installation.  On their own, each element would be unexciting and quiet.  However, in a large white ceiling filled with them, they are fascinating and noisy.  I think the power in this piece comes from the simplicity of each element combined with the incredible effect that they all have together.  I was mesmerized watching them move together and appreciate the calming atmosphere of the piece.  To me, this piece is metaphorical to the impact that humans can have when we join together.  On our own, we may not be as powerful or as capable of completing a task, but together, we can accomplish incredible things.
 
-[Here's a link to the piece](http://www.wineandcheesemap.com/)
+[Here's a link to the piece](https://vimeo.com/66216798)
+
+
+### In Order to Control, Nota Bene
+![In Order to Control](images/inorder.jpg?raw=true "In Order to Control")
+![In Order to Control](images/inorder2.jpg?raw=true "In Order to Control")
+
+In this piece, a series of sentences and words are projected on the floor.  When a human walks through the piece, the segment that their shadow casts through is projected on to the wall.  I enjoyed watching people interact with the piece, catching glimpses of sentences and phrases on the wall.  Although I was never able to read a full sentence, even just picking up adjoined words had a very powerful effect.  The word choices are all very intriguing, and if read in full, would have a very deep meaning worth pondering.  From this piece, I picked up the message that our actions and words directly reflect how others perceive us.  When a person walks through the piece, there are specific words projected that made me think, similar to the way in which people's actions make us think about them as a person.  I think the dark atmosphere and black and white color scheme of this piece makes the message even more serious and less playful, even though the concept is very playful.
+
+[Here's a link to the piece](http://www.digiart21.org/art/in-order-to-control)
